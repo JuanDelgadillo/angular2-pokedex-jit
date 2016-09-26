@@ -1,6 +1,11 @@
-# Pokédex
+# Pokédex - JiT
 
-A simple Pokédex built with Angular.js version 2
+This pokedex's version was built to show you different loading speeds if you're working with Just in Time compilation instead of Ahead of Time compilation.
+
+You can test and see the difference between both in these links below:
+
+* [Pokedex-JiT-compilation](https://juandelgadillo.github.io/angular2-pokedex-jit/)
+* [Pokedex-AoT-compilation](https://juandelgadillo.github.io/angular2-pokedex/)
 
 ## LEGAL
 
